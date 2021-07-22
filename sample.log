@@ -1,0 +1,3 @@
+2021-07-22 20:55:23,302 : WARNING : __main__ : Something is not right.
+2021-07-22 20:55:23,303 : ERROR : __main__ : A Major error has happened.
+2021-07-22 20:55:23,303 : CRITICAL : __main__ : Fatal error. Cannot continue
